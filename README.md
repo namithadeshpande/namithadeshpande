@@ -12,4 +12,4 @@ I am a final year Under Graduate Student at PES University, pursuing a Bachelors
 - 👯 I’m looking to collaborate on any Data Analytics projects 
 - 💬 Here to discuss about technology :woman_technologist: and space :rocket:
 - 😄 Pronouns: She/Her
-- 👾 Fun fact: If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox
+- 👾 Fun fact: If Pinocchio says [“My Nose Will Grow Now”](https://en.wikipedia.org/wiki/Pinocchio_paradox#:~:text=The%20Pinocchio%20paradox%20arises%20when,to%20a%20contradiction%2C%20or%20paradox.), it would cause a paradox
