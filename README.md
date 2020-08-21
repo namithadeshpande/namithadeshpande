@@ -4,4 +4,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Namitha%20Deshpande-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/namithadeshpande/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-%40NamsDeshpande-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/NamsDeshpande "Follow on Twitter")
 [![Medium Badge](https://img.shields.io/badge/-Namitha%20Deshpande-black?style=flat&logo=Medium&logoColor=white)](https://twitter.com/NamsDeshpande "Read on Medium")
-[![Tableau Badge](https://img.shields.io/badge/-Namitha%20Deshpande-darkblue?style=flat&logo=Tableau&logoColor=white)]https://public.tableau.com/profile/namitha.n.deshpande#! "Tableau Profile")
+[![Tableau Badge](https://img.shields.io/badge/-Namitha%20Deshpande-darkblue?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/profile/namitha.n.deshpande#!/ "Tableau Profile")
