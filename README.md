@@ -7,3 +7,9 @@
 [![Tableau Badge](https://img.shields.io/badge/-Namitha%20Deshpande-darkblue?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/profile/namitha.n.deshpande#!/ "Tableau Profile")
 
 I am a final year Under Graduate Student at PES University, pursuing a Bachelors in Computer Science and Engineering, who is passionate about Data Analytics and Visualization :bar_chart:, R programmer :computer:. I love to learn and contribute in any and every possible way.
+
+- 🌱 I’m currently learning Statistics
+- 👯 I’m looking to collaborate on any Data Analytics projects 
+- 💬 Here to discuss about technology :woman_technologist_medium_skin_tone: and space :rocket:
+- 😄 Pronouns: She/Her
+- 👾 Fun fact: If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox
