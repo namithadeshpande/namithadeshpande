@@ -10,6 +10,6 @@ I am a final year Under Graduate Student at PES University, pursuing a Bachelors
 
 - 🌱 I’m currently learning Statistics
 - 👯 I’m looking to collaborate on any Data Analytics projects 
-- 💬 Here to discuss about technology :woman_technologist_medium_skin_tone: and space :rocket:
+- 💬 Here to discuss about technology :woman_technologist: and space :rocket:
 - 😄 Pronouns: She/Her
 - 👾 Fun fact: If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox
