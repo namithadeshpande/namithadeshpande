@@ -6,10 +6,10 @@
 [![Medium Badge](https://img.shields.io/badge/-Namitha%20Deshpande-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@namithadeshpande "Read on Medium")
 [![Tableau Badge](https://img.shields.io/badge/-Namitha%20Deshpande-darkblue?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/profile/namitha.n.deshpande#!/ "Tableau Profile")
 
-I am a final year Under Graduate Student at PES University, pursuing a Bachelors in Computer Science and Engineering, who is passionate about Data Analytics and Visualization :bar_chart:, R programmer :computer:. I am an aspiring data analyst who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries.
+I am a Graduate Student at The University of Texas at Dallas, pursuing a Masters in Business Analytics, who is passionate about Data Analytics and Visualization :bar_chart:, R programmer :computer:. I am an aspiring data analyst who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries.
 
-- 🌱 I’m currently learning Statistics
-- 👯 I’m looking to collaborate on any Data Analytics projects 
+- 🌱 I’m currently learning Python for Machine Learning
+- 👯 I’m looking to collaborate on any Machine Learning projects 
 - 💬 Here to discuss about technology :woman_technologist: and space :rocket:
 - 😄 Pronouns: She/Her
 
