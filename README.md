@@ -13,4 +13,4 @@ I am a Graduate Student at The University of Texas at Dallas, pursuing a Masters
 - 💬 Here to discuss about technology :woman_technologist: and space :rocket:
 - 😄 Pronouns: She/Her
 
-![Profile Views](https://komarev.com/ghpvc/?username=namithadeshpande&color=blue)
+
